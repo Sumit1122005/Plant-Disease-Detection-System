@@ -78,4 +78,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 For any queries, reach out via:
 📧 Email: sumitkumarpatel01122005@gmail.com
-🔗 GitHub: @Sumit1122005
+🔗 GitHub: Sumit1122005
